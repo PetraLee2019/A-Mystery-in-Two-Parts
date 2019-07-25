@@ -1,4 +1,3 @@
--- Exported from QuickDBD: Specifying Data Types, Primary Keys & Foreign Keys 
 -- Import CSV Files Into Corresponding SQL Table
 CREATE TABLE "departments" (
     "dept_no" VARCHAR   NOT NULL,
