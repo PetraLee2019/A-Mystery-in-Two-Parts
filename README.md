@@ -1,5 +1,5 @@
 # A Mystery in Two Parts
-![Alt Tag}(https://github.com/PetraLee2019/Employee-Database-A-Mystery-in-Two-Parts/blob/master/Images/SQL.jpg?raw=true)
+![Alt Tag](https://github.com/PetraLee2019/Employee-Database-A-Mystery-in-Two-Parts/blob/master/Images/SQL.jpg?raw=true)
 ## Background
 A research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 
